@@ -1,0 +1,13 @@
+C:\Users\ju4ns\source\repos\PUSING\PUSING\bin\Debug\PUSING.exe.config
+C:\Users\ju4ns\source\repos\PUSING\PUSING\bin\Debug\PUSING.exe
+C:\Users\ju4ns\source\repos\PUSING\PUSING\bin\Debug\PUSING.pdb
+C:\Users\ju4ns\source\repos\PUSING\PUSING\obj\Debug\PUSING.csproj.AssemblyReference.cache
+C:\Users\ju4ns\source\repos\PUSING\PUSING\obj\Debug\PUSING.csproj.SuggestedBindingRedirects.cache
+C:\Users\ju4ns\source\repos\PUSING\PUSING\obj\Debug\PUSING.Form1.resources
+C:\Users\ju4ns\source\repos\PUSING\PUSING\obj\Debug\PUSING.Properties.Resources.resources
+C:\Users\ju4ns\source\repos\PUSING\PUSING\obj\Debug\PUSING.csproj.GenerateResource.cache
+C:\Users\ju4ns\source\repos\PUSING\PUSING\obj\Debug\PUSING.csproj.CoreCompileInputs.cache
+C:\Users\ju4ns\source\repos\PUSING\PUSING\obj\Debug\PUSING.exe
+C:\Users\ju4ns\source\repos\PUSING\PUSING\obj\Debug\PUSING.pdb
+C:\Users\ju4ns\source\repos\PUSING\PUSING\obj\Debug\PUSING.Form2.resources
+C:\Users\ju4ns\source\repos\PUSING\PUSING\obj\Debug\PUSING.Form3.resources
